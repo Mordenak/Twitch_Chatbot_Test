@@ -1,0 +1,14 @@
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\bin\Debug\TwitchChatbot.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\obj\Debug\TwitchChatbot.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\obj\Debug\TwitchChatbot.Form1.resources
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\obj\Debug\TwitchChatbot.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\obj\Debug\TwitchChatbot.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\bin\Debug\TwitchChatbot.exe
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\bin\Debug\TwitchChatbot.pdb
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\bin\Debug\Newtonsoft.Json.dll
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\bin\Debug\TwitchLib.dll
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\bin\Debug\WebSocket4Net.dll
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\bin\Debug\Newtonsoft.Json.xml
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\bin\Debug\TwitchLib.xml
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\obj\Debug\TwitchChatbot.exe
+c:\users\nick\documents\visual studio 2015\Projects\TwitchChatbot\TwitchChatbot\obj\Debug\TwitchChatbot.pdb

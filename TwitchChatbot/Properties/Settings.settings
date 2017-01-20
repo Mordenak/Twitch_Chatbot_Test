@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TwitchChatbot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">doppelnaga</Value>
+    </Setting>
+    <Setting Name="oauth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">oauth:ylb3zc0z1jpee7dwyx5z942h7dxxfg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
